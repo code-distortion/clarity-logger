@@ -1,0 +1,8 @@
+.phpunit.result.cache
+.idea/
+build/
+composer.lock
+phpunit.cache/
+tests/Unit/ManualTest.php
+todo.txt
+vendor/
